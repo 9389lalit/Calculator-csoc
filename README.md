@@ -1,4 +1,4 @@
-# Calculator-csoc
+# Calculator Simple
 Tech stack used is html css and javascript
 Name:-Lalit singh
 Branch:-Electronics
